@@ -8,5 +8,6 @@ The implemented algorithm starts by importing a photo to convert it to a half to
 
 Samples of the results:
 
-| Peripheral | Function |
+| Original Image | Halftoned image |
+| --- | --- |
 | <img src="Images/10.JPG" width="400"/>| <img src="Results/Half Toned10.jpg" width="400"/> |
