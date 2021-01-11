@@ -11,3 +11,5 @@ Samples of the results:
 | Original Image | Halftoned image |
 | --- | --- |
 | <img src="Images/10.JPG" width="400"/>| <img src="Results/Half Toned10.jpg" width="400"/> |
+| <img src="Images/9.JPG" width="400"/>| <img src="Results/Half Toned9.jpg" width="400"/> |
+| <img src="Images/5.jpg" width="400"/>| <img src="Results/Half Toned5.jpg" width="400"/> |
