@@ -4,3 +4,9 @@ A halftone, or halftone image, is an image comprised of discrete dots rather tha
 This repository contains halftoning algorithm for grayscale images.
 
 The implemented algorithm starts by importing a photo to convert it to a half toned image. The algorithm implements the equivalent matrix of each designated level. The algorithm converts the photo into 10-level gray scale image. Then, it creates a new image and uses the equivalent matrices to form the half-toned image.
+
+
+Samples of the results:
+
+| Peripheral | Function |
+| <img src="Images/10.JPG" width="400"/>| <img src="Results/Half Toned10.jpg" width="400"/> |
